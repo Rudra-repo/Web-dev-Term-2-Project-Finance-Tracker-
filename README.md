@@ -9,6 +9,18 @@ The application helps users track income, expenses, spending limits, and recent 
 
 ---
 
+## Problem Statement
+Managing personal finances manually is inefficient and error-prone.  
+Many users struggle to keep track of income, expenses, and spending limits in one place.
+
+This project solves that problem by providing:
+- A centralized dashboard for financial tracking
+- Real-time updates based on user actions
+- Persistent data storage in the browser
+- Clear visual feedback for spending behavior
+
+---
+
 ## Features
 
 - Add income and expense transactions
