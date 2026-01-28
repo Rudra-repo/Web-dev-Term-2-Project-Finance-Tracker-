@@ -46,11 +46,11 @@ No external frameworks or libraries are used.
 
 ---
 
-## Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+ ## Project Structure
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── README.md
 
 ---
 
